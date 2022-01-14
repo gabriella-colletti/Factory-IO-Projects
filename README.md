@@ -1,5 +1,6 @@
 # Factory-IO-Project
-
+**Introduction To Scapy**
+  - Explains how to sniff a packet 
 
 **Python Files:**
   -	main.py : runs the Factory IO system correctly-takes a box and brings it to the end of the conveyor without it falling off the edge
