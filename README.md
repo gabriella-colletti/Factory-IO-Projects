@@ -20,4 +20,4 @@
 DEMO.mp4: This is a demo video that explains how the offline and online Intrusion Detection Systems work as well as demonstrating that they can detect the presence of an attack
 
 
-[![Demo.mp4]({https://vimeo.com/666043170})]({https://vimeo.com/666043170} "Link Title")
+[![Demo.mp4]]({https://vimeo.com/666043170} "Link Title")
